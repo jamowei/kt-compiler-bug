@@ -1,8 +1,1 @@
-pluginManagement {
-    repositories {
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
-
-rootProject.name = "fritz2-template"
+rootProject.name = "kt-compiler-bug"
